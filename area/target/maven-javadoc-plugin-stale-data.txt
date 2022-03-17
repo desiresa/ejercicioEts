@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/home/daw/ejercicioEts/area/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/daw/ejercicioEts/area/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Modulo area 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/home/daw/ejercicioEts/area/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Modulo area 1.0-SNAPSHOT API'
+es.iespuerto.area
+/home/daw/ejercicioEts/area/src/main/java = 1647544598364
+/home/daw/ejercicioEts/area/target/site/apidocs/package-search-index.js = 1647545497814
+/home/daw/ejercicioEts/area/target/site/apidocs/allpackages-index.html = 1647545497830
+/home/daw/ejercicioEts/area/target/site/apidocs/deprecated-list.html = 1647545497834
+/home/daw/ejercicioEts/area/target/site/apidocs/index-all.html = 1647545497822
+/home/daw/ejercicioEts/area/target/site/apidocs/type-search-index.js = 1647545497822
+/home/daw/ejercicioEts/area/target/site/apidocs/search.js = 1647545497842
+/home/daw/ejercicioEts/area/target/site/apidocs/member-search-index.zip = 1647545497822
+/home/daw/ejercicioEts/area/target/site/apidocs/member-search-index.js = 1647545497822
+/home/daw/ejercicioEts/area/target/site/apidocs/package-search-index.zip = 1647545497818
+/home/daw/ejercicioEts/area/target/site/apidocs/index.html = 1647545497834
+/home/daw/ejercicioEts/area/target/site/apidocs/stylesheet.css = 1647545497842
+/home/daw/ejercicioEts/area/target/site/apidocs/element-list = 1647545497774
+/home/daw/ejercicioEts/area/target/site/apidocs/constant-values.html = 1647545497786
+/home/daw/ejercicioEts/area/target/site/apidocs/type-search-index.zip = 1647545497822
+/home/daw/ejercicioEts/area/target/site/apidocs/overview-tree.html = 1647545497806
+/home/daw/ejercicioEts/area/target/site/apidocs/script.js = 1647545497842
+/home/daw/ejercicioEts/area/target/site/apidocs/allclasses-index.html = 1647545497826
+/home/daw/ejercicioEts/area/target/site/apidocs/help-doc.html = 1647545497838
+/home/daw/ejercicioEts/area/target/site/apidocs/allclasses.html = 1647545497834
